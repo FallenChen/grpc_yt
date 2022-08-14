@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 	"google.golang.org/grpc"
-	pb "grcp_yt/gen/proto"
+	pb "grcp_yt/pkg"
 	"log"
 )
 

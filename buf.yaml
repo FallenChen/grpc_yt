@@ -1,0 +1,4 @@
+version: v1
+name: buf.build/garry/grpc_yt
+deps:
+  - buf.build/googleapis/googleapis

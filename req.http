@@ -1,4 +1,4 @@
-POST http://localhost:8081/echo
+GET http://localhost:8081/echo
 Content-Type: application/json
 
 {
